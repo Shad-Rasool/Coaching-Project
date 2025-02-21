@@ -1,0 +1,123 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    margin-left: 1px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:#6A9C89;
+}
+#A{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+    font-size: 45px;
+    color:#16423C ;
+    background-image: url(image\ coaching.jpeg);
+    background-size:contain;
+    background-blend-mode:color-burn;
+}
+/* #image{
+    margin: right 1000000px;
+    background-size:cover;
+    border: 2px solid burlywood ;
+    motion: reverse;
+} */
+#first image{
+    border-image-width: 100%;
+}
+#footer{
+width: 100vw;   
+margin-top: 10px;
+background-color:black;
+color: aliceblue;
+height: 40px;
+}
+
+.footer{
+    margin-right: 300px;
+    background-color:black;
+    color: beige;
+ 
+}
+
+/* #Copyright{
+    margin-left: 400px;
+}  */
+
+.Extend{
+    color: #16423C;
+}
+
+#Opener{
+    font-size: 29;
+    /* font: bold; */
+    color: #16423C;
+}
+.details{
+    margin-bottom: 10px;
+}
+#Condition{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+    color: #16423C;
+    background-color:#C4DAD2 ;
+
+}
+Button{
+    text-align: center;
+   
+    color:black;
+    
+}
+#Next{
+    position: relative;
+    left: 600px;
+    background-color: #C4DAD2;
+    color: #16423C;
+}
+#Welcome{
+    text-align: center;
+    font-size: 20px;
+    font:bold;
+    color: #16423C;
+}
+.Text{
+    font-size: 18px;
+}
+.Pic{
+    height: 250px;
+    width: 250px;
+    background-color: black;
+    border: 2px;
+    margin: 10px;
+    display: inline-block;
+    margin-top: 30px;
+    }
+    #a{
+        background-image:url(Modular\ class.jpeg);
+        background-size: cover;
+    }
+    #b{
+        background-image:url(Library.jpeg);
+        background-size: cover;
+    }
+    #c{
+        background-image:url(Resource\ Centre.jpeg);
+        background-size: cover;
+    }
+    #d{
+        background-image:url(Designer.png);
+        background-size: cover;
+    }
+    #e{
+        background-image: url(Computer\ lab.jpeg);
+        background-size: cover;
+    }
+
+    #N{
+        margin-left: 1200px;
+    }
